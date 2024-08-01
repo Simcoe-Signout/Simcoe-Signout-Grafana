@@ -1,0 +1,4 @@
+SELECT 
+  COUNT(ALL id) 
+FROM users
+ORDER BY 1
